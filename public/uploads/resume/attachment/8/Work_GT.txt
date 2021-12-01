@@ -1,0 +1,6 @@
+19-08-2021 [DEV][LMS-PIM] CreateRefrensi API, Create Standart Response API. 3Jam
+23-08-2021 [DEV][LMS-PIM] Create Refrensi ZonaWaktu, Program Pim. 1Jam
+25-08-2021 [DEV][LMS-PIM] Create Stakeholder API. 30 Menit
+25-08-2021 [MTC][E-Akreditasi] Fixing Bug Nilai Akreditasi. 30 Menit
+28-08-2021 [DEV][LMS-PIM] Create Chatroom dan Detail API. 2Jam
+29-08-2021 [DEV][LMS-PIM] Create Proyek Perubahan dan Komentar API. 2Jam
